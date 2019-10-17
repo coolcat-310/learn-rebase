@@ -4,7 +4,8 @@ let product = {
     "label": "academy_prod_redeem_free",
     "expiration_date": "1601598714",
     "subscription_type": "free_limited",
-    "next_billing_date": "N/A"
+    "next_billing_date": "N/A",
+    'test': ''
 };
 
 if(product.next_billing_date){
